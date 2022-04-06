@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grekichi
-- 👀 I’m interested in ROS and DeepLearning.
-- 🌱 I’m currently learning Python and C++. Still beginner.
+- 👀 I’m interested in ROS, ROS2 and DeepLearning.
+- 🌱 I’m currently learning Python and C++. still beginner.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
